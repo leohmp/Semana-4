@@ -41,7 +41,7 @@ class Tarefa {
     }
 }
 
-
+//--
 const btnAdicionar = document.getElementById('btn-adicionar') as HTMLButtonElement;
 const inputTitulo = document.getElementById('input-titulo') as HTMLInputElement;
 const inputDescricao = document.getElementById('input-descricao') as HTMLInputElement;
